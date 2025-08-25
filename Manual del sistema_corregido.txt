@@ -8,23 +8,23 @@ Para instalar el sistema tiene que primero bajar el archivo del internet, despu�
 
 Nota: Sí, aparece algún error, ignorarlo e intentar de nuevo.
 
-2. Inisio de sesion
+2. Inicio de sesión
 
-Cuando abra el programa deve poner su nombre de usario y la contraseña. Si no acuerda la contraseña pues hablar con el administrador o intente muchas veses hasta que funcione.
+Cuando abra el programa debe poner su nombre de usuario y la contraseña. Si no acuerda la contraseña, pues hablar con el administrador o intente muchas veces hasta que funcione.
 
 3. Crear facturas
 
-Para acer una factura seleccione el boton verde, luego rellene los campos que estan ahi. No importa si no llena todos, el sistema guarda de todas formas.
+Para hacer una factura, seleccione el botón verde, luego rellene los campos que están ahí. No importa si no llena todos, el sistema guarda de todas formas.
 
 Cliente: el nombre del cliente (no obligatorio)
 
-Cantidad: cuanto se cobra (si pone letras en lugar de numeros puede fallar pero a veces si pasa)
+Cantidad: cuanto se cobra (si pone letras en lugar de números puede fallar, pero a veces si pasa)
 
 Fecha: no es tan importante
 
 4. Respaldo
 
-El programa aveces guarda automaticamente pero no siempre. Se aconseja de que cada cierto tiempo copie la carpeta en algun lado por si se borra o se daña.
+El programa a veces guarda automáticamente, pero no siempre. Se aconseja que cada cierto tiempo copie la carpeta en algún lado por si se borra o se daña.
 
 5. Errores comunes
 
