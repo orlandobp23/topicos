@@ -1,0 +1,41 @@
+Manual de Usuario del Sistema Contable v1.0
+
+Bienvenidos al manual de usuario del sistema contable. Este documento explica algunas cosas básicas para poder usar el software, pero no garantiza que este todo aquí, porque el programa se va actualizando constantemente.
+
+1. Instalación
+
+Para instalar el sistema tiene que primero bajar el archivo del internet, después abrirlo y darle clic donde dice “next”. No importa donde lo instale, pero se recomienda mejor en disco duro.
+
+Nota: Sí, aparece algún error, ignorarlo e intentar de nuevo.
+
+2. Inisio de sesion
+
+Cuando abra el programa deve poner su nombre de usario y la contraseña. Si no acuerda la contraseña pues hablar con el administrador o intente muchas veses hasta que funcione.
+
+3. Crear facturas
+
+Para acer una factura seleccione el boton verde, luego rellene los campos que estan ahi. No importa si no llena todos, el sistema guarda de todas formas.
+
+Cliente: el nombre del cliente (no obligatorio)
+
+Cantidad: cuanto se cobra (si pone letras en lugar de numeros puede fallar pero a veces si pasa)
+
+Fecha: no es tan importante
+
+4. Respaldo
+
+El programa aveces guarda automaticamente pero no siempre. Se aconseja de que cada cierto tiempo copie la carpeta en algun lado por si se borra o se daña.
+
+5. Errores comunes
+
+Si el sistema se traba, reinicie la computadora.
+
+Si no funciona, desinstale e instale otraves.
+
+Si sigue sin funcionar, talvez es el antivirus, o el internet, o la computadora esta lenta.
+
+6. Contacto con soporte
+
+Para preguntas, dudas o reclamos favor de mandar un correo pero no garantisamos que contestamos rapido.
+
+
