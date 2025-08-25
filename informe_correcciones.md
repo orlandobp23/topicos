@@ -34,7 +34,7 @@ Antes: "No importa si no llena todos, el sistema guarda de todas formas"
 
 Después: "No es obligatorio llenar todos los campos, pero el sistema guardará la factura de todas formas"
 
-Uso de tilde:
+Uso de tildes:
 
 Antes: "Nota: Sí, aparece algún error ignorarlo e intentar otraves"
 
