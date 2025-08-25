@@ -30,12 +30,13 @@ El programa a veces guarda automáticamente, pero no siempre. Se aconseja que ca
 
 Si el sistema se traba, reinicie la computadora.
 
-Si no funciona, desinstale e instale otraves.
+Si no funciona, desinstale e instale de nuevo.
 
-Si sigue sin funcionar, talvez es el antivirus, o el internet, o la computadora esta lenta.
+Si sigue sin funcionar, talvez es el antivirus, o el internet, o la computadora está lenta.
 
 6. Contacto con soporte
 
-Para preguntas, dudas o reclamos favor de mandar un correo pero no garantisamos que contestamos rapido.
+Para preguntas, dudas o reclamos favor de mandar un correo, pero no garantizamos que contestamos rápido.
+
 
 
